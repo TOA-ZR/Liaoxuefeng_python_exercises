@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f121c18c-0972-4f38-9007-c951e953a0b7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/exercise15_11_2018 Functional Programming.py" beforeDir="false" afterPath="$PROJECT_DIR$/exercise15_11_2018 Functional Programming.py" afterDir="false" />
-    </list>
+    <list default="true" id="f121c18c-0972-4f38-9007-c951e953a0b7" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +10,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/liaoxuefeng_exercises$liaoxuefeng_exercise.coverage" NAME="liaoxuefeng_exercise Coverage Results" MODIFIED="1542729566510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/liaoxuefeng_exercises$liaoxuefeng_exercise.coverage" NAME="liaoxuefeng_exercise Coverage Results" MODIFIED="1542814550995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="-1315942705">
@@ -30,23 +27,25 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
-          <entry key="py" value="10" />
+          <entry key="py" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="Python" value="10" />
+          <entry key="Python" value="18" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="Python Console" value="2423" />
-          <entry key="py" value="15640" />
+          <entry key="Python Console" value="2499" />
+          <entry key="dummy" value="36" />
+          <entry key="py" value="16348" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="18063" />
+          <entry key="PLAIN_TEXT" value="36" />
+          <entry key="Python" value="18847" />
         </counts>
       </usages-collector>
     </session>
@@ -54,32 +53,41 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/exercise15_11_2018 Functional Programming.py">
+        <entry file="file://$PROJECT_DIR$/exercise21_11_2018.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="539">
-              <caret line="456" lean-forward="true" selection-start-line="456" selection-end-line="456" />
+            <state relative-caret-position="445">
+              <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
               <folding>
-                <marker date="1542729582444" expanded="true" signature="887:892" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="985:990" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="1059:1064" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="1774:1779" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="1774:1783" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="1774:1811" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="2948:3209" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="3783:3785" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="3783:3788" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="5156:5161" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="5502:5507" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="6607:6612" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="7255:7256" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="7407:7614" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="8102:8324" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="8355:8360" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="8605:8610" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="8708:8713" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="8802:8869" ph="..." />
-                <marker date="1542729582444" expanded="true" signature="9508:9513" ph="..." />
+                <marker date="1542815695782" expanded="true" signature="388:393" ph="..." />
+                <marker date="1542815695782" expanded="true" signature="506:805" ph="..." />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="81">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/exercise12_11_2018 advansed feature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-226">
+              <caret line="66" selection-start-line="66" selection-end-line="66" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -109,6 +117,12 @@
         <option value="$PROJECT_DIR$/exercise24_10_2018.py" />
         <option value="$PROJECT_DIR$/exercise12_11_2018 advansed feature.py" />
         <option value="$PROJECT_DIR$/exercise15_11_2018 Functional Programming.py" />
+        <option value="$PROJECT_DIR$/module.py" />
+        <option value="$PROJECT_DIR$/tttt.py" />
+        <option value="$PROJECT_DIR$/venv/1.py" />
+        <option value="$PROJECT_DIR$/__init__.py" />
+        <option value="$PROJECT_DIR$/1.py" />
+        <option value="$PROJECT_DIR$/exercise21_11_2018.py" />
       </list>
     </option>
   </component>
@@ -139,6 +153,11 @@
               <item name="liaoxuefeng_exercises" type="b2602c69:ProjectViewProjectNode" />
               <item name="liaoxuefeng_exercises" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="liaoxuefeng_exercises" type="b2602c69:ProjectViewProjectNode" />
+              <item name="liaoxuefeng_exercises" type="462c0819:PsiDirectoryNode" />
+              <item name="venv" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -147,12 +166,15 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercise15_11_2018 Functional Programming.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/exercise21_11_2018.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\jo\PycharmProjects\liaoxuefeng_exercises" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\jo\PycharmProjects\liaoxuefeng_exercises" />
     </key>
@@ -183,7 +205,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise15_11_2018 Functional Programming.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/exercise21_11_2018.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -220,11 +242,11 @@
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49497488" visible="true" weight="0.2752193" />
-      <window_info id="Structure" order="1" sideWeight="0.50502515" side_tool="true" visible="true" weight="0.2752193" />
+      <window_info id="Structure" order="1" sideWeight="0.50502515" side_tool="true" weight="0.2752193" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.20717132" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.20717132" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39479637" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -233,7 +255,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.13944224" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.33171678" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3316733" />
       <window_info anchor="bottom" id="Python Console" order="12" weight="0.3256972" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -241,6 +263,29 @@
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49497488" visible="true" weight="0.2752193" />
+      <window_info id="Structure" order="1" sideWeight="0.50502515" side_tool="true" visible="true" weight="0.2752193" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.20717132" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39479637" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32934928" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" weight="0.13944224" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3316733" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3256972" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -290,38 +335,66 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/exercise15_11_2018 Functional Programming.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="457" lean-forward="true" selection-start-line="457" selection-end-line="457" />
+          <folding>
+            <marker date="1542729738894" expanded="true" signature="887:892" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="985:990" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="1059:1064" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="1774:1779" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="1774:1783" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="1774:1811" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="2948:3209" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="3783:3785" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="3783:3788" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="5156:5161" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="5502:5507" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="6607:6612" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="7255:7256" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="7407:7614" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="8102:8324" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="8355:8360" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="8605:8610" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="8708:8713" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="8802:8869" ph="..." />
+            <marker date="1542729738894" expanded="true" signature="9508:9513" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/exercise12_11_2018 advansed feature.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="179">
+        <state relative-caret-position="-226">
           <caret line="66" selection-start-line="66" selection-end-line="66" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/exercise15_11_2018 Functional Programming.py">
+    <entry file="file://$PROJECT_DIR$/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="539">
-          <caret line="456" lean-forward="true" selection-start-line="456" selection-end-line="456" />
+        <state relative-caret-position="54">
+          <caret line="2" selection-start-line="2" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/exercise21_11_2018.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="48" column="16" selection-start-line="48" selection-start-column="16" selection-end-line="48" selection-end-column="16" />
           <folding>
-            <marker date="1542729582444" expanded="true" signature="887:892" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="985:990" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="1059:1064" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="1774:1779" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="1774:1783" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="1774:1811" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="2948:3209" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="3783:3785" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="3783:3788" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="5156:5161" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="5502:5507" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="6607:6612" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="7255:7256" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="7407:7614" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="8102:8324" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="8355:8360" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="8605:8610" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="8708:8713" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="8802:8869" ph="..." />
-            <marker date="1542729582444" expanded="true" signature="9508:9513" ph="..." />
+            <marker date="1542815695782" expanded="true" signature="388:393" ph="..." />
+            <marker date="1542815695782" expanded="true" signature="506:805" ph="..." />
           </folding>
         </state>
       </provider>
